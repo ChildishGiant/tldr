@@ -7,6 +7,10 @@
 
 `fastfetch`
 
+- Display system information without a logo:
+
+`fastfetch --pipe`
+
 - Fetch a specific structure:
 
 `fastfetch --structure {{structure}}`
